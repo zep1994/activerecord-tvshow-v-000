@@ -1,5 +1,6 @@
 class CreateShows < ActiveMigration
   def change
-    crea
+    create_table :shows do |t|
+      :name 
   end
 end
