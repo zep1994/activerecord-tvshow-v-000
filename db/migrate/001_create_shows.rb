@@ -4,7 +4,7 @@ class CreateShows < ActiveMigration
       t.string :name 
       t.string :network 
       t.string :say 
-      t.integer :rate
+      t.integer :rating
     end
   end
 end
