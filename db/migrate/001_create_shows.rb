@@ -5,5 +5,6 @@ class CreateShows < ActiveMigration
       t.string :network 
       t.string :say 
       t.integer :rate
+    end
   end
 end
