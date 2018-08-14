@@ -1,4 +1,4 @@
-class Show < ActiveRecord
+class Show < ActiveRecord::Base
    def change
      
    end
