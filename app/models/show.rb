@@ -1,5 +1,5 @@
 class Show < ActiveRecord::Base
    
-   def self.
+   def self.highest_true
    
 end
