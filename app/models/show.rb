@@ -1,7 +1,7 @@
 class Show < ActiveRecord::Base
    
    def self.highest_true
-     self.maximium 
+     self.maximum
    end
    
 end
